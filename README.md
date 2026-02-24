@@ -10,7 +10,7 @@ CopyCatch is a web-based plagiarism detection tool designed for educators to che
 - **Fast Similarity Detection**: Uses TF-IDF and cosine similarity with parallel processing
 - **Caching System**: Caches extracted text to improve performance on repeated uploads
 - **Web Interface**: Simple Flask-based web application with modern UI
-- **Grouping Results**: Groups similar assignments and highlights plagiarism cases
+- **Grouping Results**: Groups similar assignments and highlights plagiarism cases.
 
 ## Installation
 
